@@ -1,32 +1,40 @@
 
-<h1 align="center">Hola, soy Pablo Germán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, soy Pablo Germán</h1>
+<h3 align="center">Desarrollador Web | Apasionado por la Tecnología | Aprendizaje Continuo</h3>
 
 <p align="center">
-  Desarrollador web apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos innovadores. 🚀
+<a href="mailto:pabloajallaenero26@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://www.instagram.com/apg.pablo/" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://github.com/Pablo-German" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
----
-
-### 🌐 Conéctate conmigo:
-- 📧 **Email:** [pabloajallaenero26@gmail.com](mailto:pabloajallaenero26@gmail.com)
-- 📸 **Instagram:** [@apg.pablo](https://www.instagram.com/apg.pablo/)
-- 💻 **GitHub:** [Pablo-German](https://github.com/Pablo-German)
-
----
-
-### 🛠️ Lenguajes y Herramientas:
-- ⚙️ **Lenguajes principales:** JavaScript, Python, HTML, CSS
-- 🖌️ **Frameworks y Librerías:** React.js, Tailwind CSS
-- 🗄️ **Bases de datos:** MySQL, PostgreSQL
-- 🚀 **Otros:** Git, VSCode, Docker
-
----
-
-### 📊 Estadísticas de GitHub:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablo-German&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-German&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%">
+  <em>
+    Soy un <b>Desarrollador Web</b> apasionado por crear proyectos innovadores y mejorar constantemente mis habilidades. 🚀<br>
+    Disfruto del aprendizaje continuo y estoy listo para enfrentar nuevos desafíos.
+  </em>
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Aprendiendo y Creciendo!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/3o6Zt5HM3lhxaZRYgY/giphy.gif" width="30px"> &nbsp; ***Lenguajes y Herramientas***
+
+
+<p align="left">
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 </p>
 
 ---
@@ -43,11 +51,4 @@
 - 🔧 **[Usestate-componentes-props](https://github.com/Pablo-German/Usestate-componentes-props):** Uso de hooks en React.js.
 - 🎨 **[landing-ejemplo](https://github.com/Pablo-German/landing-ejemplo) (Privado):** Ejemplo de landing page.
 
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pablo-German&label=Visitas&color=blue&style=flat" alt="Contador de visitas">
-</p>
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pablo-German&label=Visitas&color=blue&style=flat" alt="Contador de visitas" /> </p>
