@@ -32,12 +32,17 @@
 ---
 
 ### ⚡ Proyectos Destacados:
-- 🎯 **[python-comienzos](https://github.com/Pablo-German/python-comienzos):** Primeros pasos con HTML.
-- 🏆 **[Ofertas_Argentinas](https://github.com/Pablo-German/Ofertas_Argentinas):** App de ofertas en Argentina (proyecto privado).
+
+- 🚀 **[Portfolio-Backend](https://github.com/Pablo-German/Portfolio-Backend) (Privado):** Backend para mi portafolio profesional.
+- 🌐 **[python-comienzos](https://github.com/Pablo-German/python-comienzos):** Primeros pasos con HTML.
+- 🏷️ **[Ofertas_Argentinas](https://github.com/Pablo-German/Ofertas_Argentinas) (Privado):** Aplicación de ofertas en Argentina.
 - 💰 **[RaffleCripto](https://github.com/Pablo-German/RaffleCripto):** Aplicación para rifas en el mundo cripto.
+- 🎟️ **[Raffle](https://github.com/Pablo-German/Raffle) (Privado):** Proyecto de rifas.
 - ☕ **[Coffee Shop](https://github.com/Pablo-German/Coffee):** Tienda de café interactiva.
 - ⚛️ **[PrimerosPasos-Reactjs](https://github.com/Pablo-German/PrimerosPasos-Reactjs):** Aplicación con componentes React.js.
-- 🖥️ **[Usestate-componentes-props](https://github.com/Pablo-German/Usestate-componentes-props):** Uso de hooks en React.js.
+- 🔧 **[Usestate-componentes-props](https://github.com/Pablo-German/Usestate-componentes-props):** Uso de hooks en React.js.
+- 🎨 **[landing-ejemplo](https://github.com/Pablo-German/landing-ejemplo) (Privado):** Ejemplo de landing page.
+
 
 ---
 
