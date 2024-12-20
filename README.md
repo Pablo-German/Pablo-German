@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, soy Pablo Germá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Pablo Germán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   Desarrollador web apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos innovadores. 🚀
@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Conéctate conmigo:
-- 📧 **Email:** [tuemail@example.com](mailto:pabloajallaenero26@gmail.com)
+- 📧 **Email:** [pabloajallaenero26@gmail.com](mailto:pabloajallaenero26@gmail.com)
 - 📸 **Instagram:** [@apg.pablo](https://www.instagram.com/apg.pablo/)
 - 💻 **GitHub:** [Pablo-German](https://github.com/Pablo-German)
 
