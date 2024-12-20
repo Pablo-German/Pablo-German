@@ -1,13 +1,11 @@
 
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, soy Pablo Germán</h1>
-<h3 align="center">Desarrollador Web | Apasionado por la Tecnología | Aprendizaje Continuo</h3>
 
-<p align="center">
-<a href="mailto:pabloajallaenero26@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://www.instagram.com/apg.pablo/" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://github.com/Pablo-German" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+
+
+
+
 
 <p align="center">
   <em>
@@ -22,8 +20,8 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/3o6Zt5HM3lhxaZRYgY/giphy.gif" width="30px"> &nbsp; ***Lenguajes y Herramientas***
 
+### 🛠 &nbsp;***Lenguajes y Herramientas***
 
 <p align="left">
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -50,5 +48,17 @@
 - ⚛️ **[PrimerosPasos-Reactjs](https://github.com/Pablo-German/PrimerosPasos-Reactjs):** Aplicación con componentes React.js.
 - 🔧 **[Usestate-componentes-props](https://github.com/Pablo-German/Usestate-componentes-props):** Uso de hooks en React.js.
 - 🎨 **[landing-ejemplo](https://github.com/Pablo-German/landing-ejemplo) (Privado):** Ejemplo de landing page.
+---
+
+### 📬 **Contáctame**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pabloajalla/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" style="margin-right: 40px;" /></a>
+  <a href="https://twitter.com/PabloAjalla" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" style="margin-right: 20px;" /></a>
+  <a href="https://www.instagram.com/apg.pablo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" style="margin-right: 20px;" /></a>
+  
+</p>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pablo-German&label=Visitas&color=blue&style=flat" alt="Contador de visitas" /> </p>
